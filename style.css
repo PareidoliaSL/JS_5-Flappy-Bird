@@ -1,0 +1,14 @@
+#myCanvas {
+    border: 5px solid rgb(233, 8, 158);
+}
+
+.info {
+    margin: 20px;
+    float: right;
+    margin-right: 20%;
+}
+
+.info{
+    font-family: 'Lato', sans-serif;
+    
+}
